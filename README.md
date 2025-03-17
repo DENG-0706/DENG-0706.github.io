@@ -1,3 +1,3 @@
-# DENG-0706.github.io
+# DENG.github.io
 
 My DENG Blog via GitHub
