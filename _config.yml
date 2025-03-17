@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
+name: "DENG-0706's blog"
 description: "翩帆的个人技术博客"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://DENG-0706.github.io/images/avatar.jpg
+favicon: https://DENG-0706.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 2806304216@qq.com
   facebook:
-  github: pianfan
+  github: DENG
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
