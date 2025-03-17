@@ -1,3 +1,3 @@
-# pianfan.github.io
+# DENG-0706.github.io
 
-My Personal Blog via GitHub
+My DENG Blog via GitHub
